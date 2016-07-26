@@ -1,6 +1,6 @@
 {
     "name": "turtle.js",
-    "dependencies" {
+    "dependencies": {
 	"express": "^4.14.0"
     }
 
